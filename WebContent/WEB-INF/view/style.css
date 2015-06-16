@@ -1,0 +1,216 @@
+#h1{
+	float: left; 
+	height: 14%; 
+	width:	290px; 
+	background: white; 
+	text-align: center;"
+}
+
+#h2{
+	  float: left; 
+height: 14%; 
+	width: 140px;  
+	  background: white; 
+	  font-style: arial, Serif; 
+	  font-size: 20px; 
+	  text-align: center;
+}
+
+#h3{
+	float: left; 
+height: 14%; 
+	width: 140px; 
+	background: white; 
+	font-style: arial,  Serif; 
+	font-size: 20px; 
+	text-align: center;
+}
+
+#h4{
+	float: left; 
+	height: 14%;
+	width: 140px; 
+	background: white; 
+	font-style: arial,  Serif; 
+	font-size: 20px; 
+	text-align: center;
+}
+
+#h5{
+	float: left; 
+	height: 14%;
+	width: 140px;  
+	background:  white; 
+	font-style: arial,  Serif; 
+	font-size: 20px; 
+	text-align: center;
+}
+
+#h6{
+	float: left; 
+	height: 14%; 
+	width: 140px;  
+	background:white; 
+	font-style: arial, Serif; 
+	font-size: 20px; 
+	text-align: center;
+}
+
+#h7{
+	float: left; 
+	height: 14%; 
+	width: 140px;  
+	background:white; 
+	font-style: arial, Serif; 
+	font-size: 20px; 
+	text-align: center;
+}
+
+#h9{
+	float: left; 
+	height: 100px; 
+	width: 990px;  
+}
+
+#slider{
+	position: absolute;
+	left: 310px;
+	top: 190px;
+}
+
+#rodape{
+	position: absolute;
+	bottom: -150px;
+	height: 100px; 
+	width: 990px;  
+	background:white; 
+}
+
+
+#accordion{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 20px;
+	top: 160px;
+	font-style: arial,  Serif; 
+	font-size: 16px; 
+	text-align: left;
+}
+
+#titulo{ 
+	cursor: pointer; 
+}
+
+#descricao{ 
+	display: none; 
+}
+
+#titulo2{ 
+	cursor: pointer; 
+}
+
+#descricao2{ 
+	display: none; 
+}
+
+#mapa{
+	position: absolute;
+	right: 30px;
+	top: 160px;
+}
+
+#link{
+	font-style: arial,  Serif; 
+	font-size: 16px; 
+	text-align: left;
+}
+
+#jolie{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 260px;
+	top: 160px;
+}
+
+
+#anne{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 570px;
+	top: 160px;
+}
+
+#mamo{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 880px;
+	top: 160px;
+}
+
+#fotosMarcas{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 350px;
+	top: 280px;
+}
+
+
+#comentarios{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	width:900px;
+	left:50%;
+	margin-left:-450px;
+	top: 160px;
+	font-style: arial,  Serif; 
+	font-size: 16px; 
+	text-align: left;
+}
+#comentarios > div{
+	text-align:center;
+	width:33%;
+	display:inline-block;
+	vertical-align:top;
+}
+
+#lojas{
+	font-size: 20px;
+}
+
+#loja1{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 260px;
+	top: 160px;
+}
+
+#loja2{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 750px;
+	top: 160px;
+}
+
+#loja3{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 200px;
+	top: 500px;
+}
+
+#loja4{
+	position: absolute;
+	background: #9FC;
+	background: white;
+	left: 700px;
+	top: 500px;
+}
